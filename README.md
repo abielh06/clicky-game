@@ -14,7 +14,7 @@
 
 6. Once the user's score is reset after an incorrect guess, the game restarts.
 
-![clicky](https://user-images.githubusercontent.com/55037624/75103495-e7d81000-55c0-11ea-810a-783846444249.gif)
+![Clicky2](https://user-images.githubusercontent.com/55037624/75104410-51aae680-55ce-11ea-94d1-c0d713259c4c.gif)
 
 # [PLAY THE CLICK GAME](https://abielh06.github.io/clickygame/)
 
