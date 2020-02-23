@@ -16,7 +16,7 @@
 
 ![clicky](https://user-images.githubusercontent.com/55037624/75103495-e7d81000-55c0-11ea-810a-783846444249.gif)
 
-# [PLAY THE CLICK GAME](https://github.com/abielh06/clicky-game)
+# [PLAY THE CLICK GAME](https://abielh06.github.io/clickygame/)
 
 * Devoloper 
 -Abiel Hailemariam
