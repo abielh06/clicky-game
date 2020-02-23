@@ -15,7 +15,7 @@ function Card(props) {
         </ul>
       </div>
       <span onClick={() => props.handleFormSubmit(props.id)} className="update">
-        X
+        CLICK HERE
       </span>
     </div>
   );

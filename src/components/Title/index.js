@@ -4,9 +4,9 @@ import "./style.css";
 function Title(props) {
   return (<div>
     <div className="title">{props.children}</div>
-    <div className="scores">
+    {/* <div className="scores">
       
-    </div>
+    </div> */}
   </div>);
 }
 

@@ -1,9 +1,22 @@
 .title {
     width: 100%;
     text-align: center;
-    font-size: 3rem;
-    text-decoration: underline;
+    font-size: 4rem;
+    /* text-decoration: underline; */
     color: #2A77AE;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
+
+    background: #fff;
+    border-radius: 4px;
+    height: 150px;
+    margin: 1rem;
+    position: relative;
+    width: 555px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    
+  }
+
+  .p {
+font-size: 1.5rem;
   }
   

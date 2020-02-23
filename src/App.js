@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-
 import './App.css';
-
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
@@ -9,12 +7,15 @@ import friends from "./friends.json";
 import Score from "./components/Score";
 
 class App extends Component {
+
+  // set states that will change
   state = {
     friends,
     score: 0,
     highscore: 0
   };
   componentDidMount() {
+    // 
   let newFriends  = this.state.friends.map(friend => {
       friend.clicked = false;
       return friend
@@ -58,8 +59,11 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title >Clicky Game</Title>
-      Score:  {this.state.score} Highscore: {this.state.highscore}
+        <Title >Clicky Game
+          <p className="p">Test your memory</p>
+        </Title>
+      <Score>Score: {this.state.score} Highscore: {this.state.highscore}</Score>
+      <br></br>
         {this.state.friends.map(friend => (
           <Card
           handleFormSubmit={this.handleFormSubmit}
@@ -71,7 +75,6 @@ class App extends Component {
             score={this.state.score}
           />
         ))}
-        <Score></Score>
       </Wrapper>
     );
   }
