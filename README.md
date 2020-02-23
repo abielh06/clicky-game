@@ -1,7 +1,7 @@
 # Clicky Game
 
 
-# About
+* About
 1. The clicky game is a fun memory game created with react.js.
 
 2. The application renders different images to the screen. Each image listens for click events.
@@ -16,9 +16,9 @@
 
 
 
-# [PLAY THE CLICKY GAME] ()
+* [PLAY THE CLICKY GAME] ()
 
-# Devoloper 
+* Devoloper 
 -Abiel Hailemariam
 
 
