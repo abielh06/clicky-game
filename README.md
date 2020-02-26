@@ -1,7 +1,7 @@
 # Clicky Game
 
 
-* About
+# About
 1. The clicky game is a fun memory game created with react.js.
 
 2. The application renders different images to the screen. Each image listens for click events.
@@ -14,9 +14,9 @@
 
 6. Once the user's score is reset after an incorrect guess, the game restarts.
 
+![Clicky2](https://user-images.githubusercontent.com/55037624/75104410-51aae680-55ce-11ea-94d1-c0d713259c4c.gif)
 
-
-* [PLAY THE CLICKY GAME] ()
+# [PLAY THE CLICK GAME](https://abielh06.github.io/clickygame/)
 
 * Devoloper 
 -Abiel Hailemariam

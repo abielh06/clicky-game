@@ -31,8 +31,6 @@ class App extends Component {
   handleFormSubmit =  (id) => {
     console.log(id)
     
-    // newFriend=[{id:1,clicked:false},{id:2,clicked:true}]
-    //this.setState(friends:newfriends)
       let newFriends = this.state.friends.map(friend => {
         if (friend.id === id) {
           if (friend.clicked === true) {
