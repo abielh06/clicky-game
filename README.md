@@ -18,7 +18,11 @@
 
 # [PLAY THE CLICK GAME](https://abielh06.github.io/clicky-game/) 
 
-* Devoloper 
+# Technologies Used
+* Reactjs
+* Bootstrap CSS Framework
+
+# Devoloper 
 -Abiel Hailemariam
 
 
